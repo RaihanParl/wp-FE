@@ -1,0 +1,1 @@
+export const URL = "https://research.dygdaya.com/rental_api/public/api"
